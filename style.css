@@ -305,7 +305,7 @@ button {
 }
 
   #footer{
-    /* height: 200vh; */
+    height: 200vh;
     margin-top: 15%;
   }
 
@@ -316,7 +316,7 @@ button {
 
   #footer h2{
     text-align: center;
-    padding-top: 10%;
+    padding-top: 5%;
     font-size: 40px;
     font-family: 'Caveat', cursive;
   }
@@ -333,7 +333,7 @@ button {
   }
 
   #foot {
-    margin-top: 90px;
+    margin-top: 50px;
   }
 
   #her{

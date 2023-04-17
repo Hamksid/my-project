@@ -305,9 +305,8 @@ button {
 }
 
   #footer{
-    height: 235vh;
+    /* height: 200vh; */
     margin-top: 15%;
-    background-color: #1a1a1a;
   }
 
   #footer span{
@@ -397,7 +396,6 @@ button {
   }
 
   #lat{
-    margin-top: 20px;
     text-align: center;
     height: 5vh;
     font-size: 15px;
